@@ -1,9 +1,9 @@
-### Hi, I'm Keval 👋😊
+### Hi, I'm Keval 👋
 
-- I'm a passionate DevOps Engineer and Computer Science student 😎
-- I've recently finished a placement year at Ocado Technology
-- I'm currently working on a privacy focused "find my phone" app 📱
-- I'm also learning Kubernetes and Docker in my self-hosted home-lab 👨‍💻
-- I'm looking for a backend engineering job, preferably specialising in DevOps as it's my passion 🔍
+I'm a Sofware Engineer with:
+- a year of industry experience at Ocado Technology
+- a predicted (final year) 1st class degree from the University of Nottingham, UK
+- numerous varied completed side projects
+- a few notable open source code contributions to [libGDX](libgdx/libgdx), [authentik](goauthentik/authentik) and [bevy](bevyengine/bevy)
 
-My [website](https://thechubbypanda.dev) has links to my socials and a fancy animation (if you have the right browser 🙄).
+
