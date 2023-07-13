@@ -2,8 +2,8 @@
 
 I'm a Sofware Engineer with:
 - a year of industry experience at Ocado Technology
-- a predicted (final year) 1st class degree from the University of Nottingham, UK
-- numerous varied completed side projects
+- a 1st in my Computer Science Bsc Hons from UoN
+- numerous varied and completed side projects
 - a few notable open source code contributions to [libGDX](libgdx/libgdx), [authentik](goauthentik/authentik) and [bevy](bevyengine/bevy)
 
 
