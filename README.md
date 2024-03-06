@@ -1,7 +1,7 @@
 ### Hi, I'm Keval 👋
 
 I'm a Backend Engineer with:
-- a Consulting role [@Storm-Reply-UK](https://github.com/Storm-Reply-UK)
+- a current DevOps/Cloud Consulting role [@Storm-Reply-UK](https://github.com/Storm-Reply-UK)
 - a year of industry experience at Ocado Technology
 - a 1st in my Computer Science Bsc Hons from UoN
 - numerous varied and completed side projects
