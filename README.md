@@ -9,6 +9,6 @@ I'm a Full Stack Engineer with:
 
 I'm currently working on:
 - professional work (who could have guessed).
-- a more modern and robust version of nextcloud files.
+- a more modern and robust version of nextcloud files called [File Depot](https://GitHub.com/thechubbypanda/filedepot) (will be made public soon).
 - my [blog](thechubbypanda.dev).
 - the HashiCorp Terraform Associate certification.
